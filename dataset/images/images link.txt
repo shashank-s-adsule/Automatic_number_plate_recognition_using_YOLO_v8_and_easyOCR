@@ -1,0 +1,4 @@
+1. https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset
+
+
+2. https://www.kaggle.com/datasets/gauravsanwal/indian-licence-plate
