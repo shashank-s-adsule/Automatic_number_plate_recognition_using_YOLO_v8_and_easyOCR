@@ -1,7 +1,9 @@
-**pycache
+# ingore pycache files
+__pycache__/   
 
 # virtual env
 YOLOv8
 
 # temp files
+temp/
 temp.ipynb
