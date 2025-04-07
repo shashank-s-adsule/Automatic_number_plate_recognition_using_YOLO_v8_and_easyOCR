@@ -7,3 +7,6 @@ YOLOv8
 # temp files
 temp/
 temp.ipynb
+
+# ingore bulk dataset file
+dataset/IN_NP_largeset/

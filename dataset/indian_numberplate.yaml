@@ -1,7 +1,0 @@
-img: .\dataset\images\test1.jpg
-
-# train: .\dataset\train
-# test: .\dataset\test
-
-# num_class: 1
-# name: "License Plates"

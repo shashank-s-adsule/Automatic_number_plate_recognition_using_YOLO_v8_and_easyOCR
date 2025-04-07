@@ -3,3 +3,4 @@ matplotlib
 pandas
 ultralytics
 easyocr
+filterpy
