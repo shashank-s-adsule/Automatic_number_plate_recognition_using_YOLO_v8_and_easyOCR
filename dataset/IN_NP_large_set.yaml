@@ -1,7 +1,6 @@
-train: .\dataset\IN_NP_largeset\train
-val: .\dataset\IN_NP_largeset\test
+path: D:/shashank/test code/test_repo/ANPR/dataset/IN_NP_largeset
+train: images/train
+val: images/val
 
-# img: .\dataset\images\test1.jpg
-
-num_class: 1
-name: "License Plates"
+nc: 1
+names: ['License Plates']

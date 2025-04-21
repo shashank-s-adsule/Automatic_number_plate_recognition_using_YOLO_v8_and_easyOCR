@@ -2,5 +2,5 @@ train: D:\shashank\test code\test_repo\ANPR\dataset\train
 val: D:\shashank\test code\test_repo\ANPR\dataset\val
 test: D:\shashank\test code\test_repo\ANPR\dataset\test
 
-num_class: 1
-name: "License Plates"
+nc: 1
+names: ["License Plates"]
