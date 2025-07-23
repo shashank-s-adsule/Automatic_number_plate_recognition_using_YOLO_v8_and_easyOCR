@@ -15,10 +15,14 @@ def read_license_plate(img):
     Returns:
     str: Recognized text."""
     
-    detect=reader.readtext(img)
-    print(detect[1])
+    detects=reader.readtext(img)
+    print(detects)
+    
     results=[]
-    for bbox,text,score in detect:
+    for detect in detects:
+        if(len(detect)==0): continue
+        bbox,text,score=detect
+        
         if(len(text)>13 or len(text)<10 or score<0.8): continue
         text=text.split(" ")
         # check text [check for mismatch d=letters also ]
