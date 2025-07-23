@@ -1,6 +1,6 @@
 # ANPR
 <!-- no need sort.py but check once -->
-
+ 
 ## Dataset
 - images
     - [Indian licence plate (small set)](https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset?select=State-wise_OLX)
