@@ -1,2 +1,0 @@
-1.[dataset] https://www.kaggle.com/code/tustunkok/license-plate-detection
-2.[dataset] https://www.kaggle.com/datasets/deepakat002/indian-vehicle-number-plate-yolo-annotation
